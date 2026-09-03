@@ -1,0 +1,51 @@
+# Day 1: Python Basics
+
+## 🎯 Objective
+
+Learn the fundamental Python concepts required for AI and Generative AI development.
+
+## 📚 Topics Learned
+
+- Introduction to Python
+- Variables
+- Data Types
+- Strings
+- Numbers
+- Lists
+- Dictionaries
+- Input and Output
+
+## 🤖 Why Python for AI?
+
+Python is widely used in Artificial Intelligence because of its simple syntax and powerful ecosystem.
+
+Popular AI libraries include:
+
+- NumPy
+- Pandas
+- PyTorch
+- TensorFlow
+- Transformers
+- LangChain
+
+## 💡 Key Takeaway
+
+Python is the foundation for working with AI models, APIs, data, and automation. Strong fundamentals will make it easier to learn Generative AI frameworks later.
+
+## 🛠️ Practice
+
+Today I practiced:
+
+- Creating variables
+- Working with different data types
+- Creating and modifying lists
+- Working with dictionaries
+- Printing formatted output
+
+## 📌 Next Steps
+
+Tomorrow:
+
+- Conditional statements
+- Loops
+- Functions
