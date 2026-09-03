@@ -68,8 +68,8 @@ Before moving to Phase 1, I should be able to:
 
 | Topic | Status |
 |---|---|
-| Python Basics | ⏳ Not Started |
-| Python OOP | ⏳ Not Started |
+| Python Basics | Completed |
+| Python OOP | Completd |
 | NumPy | ⏳ Not Started |
 | Pandas | ⏳ Not Started |
 | APIs | ⏳ Not Started |
